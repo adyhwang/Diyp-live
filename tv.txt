@@ -1,252 +1,321 @@
 央视,#genre#
+CCTV1,rtsp://27.148.240.181/PLTV/88888888/224/3221227241/72237896.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E-URhBZerC1gKSoaA5zOz0Q%7EjGm1nMLk4fAVMkSgAzJBUhzV3FsM_Pwl359x8sMnxSXgVu68DlfTA-ekkvHbrN0qsTFNFNP1nC0XGdLP6Urlgv3Mb4oLsLUCh2Q16OpDKM4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%2CEND&GuardEncType=2
 CCTV1,http://27.148.240.138/PLTV/88888888/224/3221226773/1.m3u8
-CCTV2,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
-CCTV3,http://27.148.240.138/PLTV/88888888/224/3221227085/1.m3u8
-CCTV4,http://27.148.240.138/PLTV/88888888/224/3221226784/1.m3u8
-CCTV5+,http://27.148.240.138/PLTV/88888888/224/3221226850/1.m3u8
-CCTV6,http://27.148.240.138/PLTV/88888888/224/3221227089/1.m3u8
-CCTV7,http://27.148.240.138/PLTV/88888888/224/3221226780/1.m3u8
-CCTV8,http://27.148.240.138/PLTV/88888888/224/3221227120/1.m3u8
-CCTV9,http://27.148.240.138/PLTV/88888888/224/3221226849/1.m3u8
-CCTV10,http://27.148.240.138/PLTV/88888888/224/3221226779/1.m3u8
-CCTV11,http://27.148.240.138/PLTV/88888888/224/3221226888/1.m3u8
-CCTV12,http://27.148.240.138/PLTV/88888888/224/3221226792/1.m3u8
-CCTV13,http://27.148.240.138/PLTV/88888888/224/3221226769/1.m3u8
-CCTV14,,http://27.148.240.138/PLTV/88888888/224/3221226762/1.m3u8
-CCTV15,http://27.148.240.138/PLTV/88888888/224/3221226775/1.m3u8
-CCTV16,http://27.148.240.138/PLTV/88888888/224/3221227352/1.m3u8
-CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
-
-CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
-CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
-CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
-CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
-CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-
-
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV2,rtsp://27.148.237.40:554/live/ch17092208064869858322.sdp?playtype=1&FccMediaIP=239.61.2.174&FccMediaPort=9032&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcmn5hoKk11ZyijeXlt1lMNZI6Nlfu2xzmbLxURRqjn%2F6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV2,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV2,rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV3,rtsp://27.148.237.40:554/live/ch20122816275150505818.sdp?playtype=1&FccMediaIP=239.61.3.34&FccMediaPort=9722&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch20122816275150505818&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcjEZadVNA%2B%2FFXdInNoKRqfUCFfk8qqMUZPf81b9n51m6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV4,rtsp://27.148.237.40:554/live/ch17081011542536199690.sdp?playtype=1&FccMediaIP=239.61.2.206&FccMediaPort=9224&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQqnmJxTvRfq3Hz8PMJ8xlkhO6tKfxBs3sIMhGV%2BoT3N6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV5,rtsp://27.148.237.40:554/live/ch20122816284434600276.sdp?playtype=1&FccMediaIP=239.61.3.35&FccMediaPort=9728&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch20122816284434600276&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcjEZadVNA%2B%2FFXdInNoKRqcjdigFkMJTe2XYDTinGH316D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV6,rtsp://27.148.237.40:554/live/ch20122816292260718026.sdp?playtype=1&FccMediaIP=239.61.3.36&FccMediaPort=9734&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch20122816292260718026&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcjEZadVNA%2B%2FFXdInNoKRqfArfzVXFweKKdICAaJId0q6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV7,rtsp://27.148.237.40:554/live/ch17092208080814677315.sdp?playtype=1&FccMediaIP=239.61.2.175&FccMediaPort=9038&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcmn5hoKk11ZyijeXlt1lMNOaxOn21slicZYx8YlZD7V6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV7,http://27.148.240.138/PLTV/88888888/224/3221226780/1.m3u8
+CCTV7,rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJfeqIynThSnMQUlmZG4XzktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV8,rtsp://27.148.237.40:554/live/ch20122816295372138106.sdp?playtype=1&FccMediaIP=239.61.3.37&FccMediaPort=9740&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch20122816295372138106&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcjEZadVNA%2B%2FFXdInNoKRqdwH6MrbXRD3GuLcHnlfEJx6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV9,rtsp://27.148.237.40:554/live/ch17092110534875474266.sdp?playtype=1&FccMediaIP=239.61.2.172&FccMediaPort=9020&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092110534875474266&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSopXXyHvdGXXlYOLLa4tYK0ebum4NopcvVtAT8zgXUu6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV9,http://27.148.240.138/PLTV/88888888/224/3221226849/1.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV9,rtsp://27.148.219.129:554/live/ch17092110534875474266.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110534875474266&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3Kqp8Lff1Wxsu5nFcCGQLsPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV10,rtsp://27.148.237.40:554/live/ch17092208093413465804.sdp?playtype=1&FccMediaIP=239.61.2.176&FccMediaPort=9044&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208093413465804&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldcmn5hoKk11ZyijeXlt1lMMzE%2FtxJBL2%2B%2F9e2kmivmi16D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV10,http://27.148.240.138/PLTV/88888888/224/3221226779/1.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV10,rtsp://27.148.219.129:554/live/ch17092208093413465804.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208093413465804&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwK40i0QqJ17krMIpXhU61QbtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV11,rtsp://27.148.237.40:554/live/ch15102717162059665205.sdp?playtype=1&FccMediaIP=239.61.2.21&FccMediaPort=8120&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162059665205&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4QaEfOUzqSpTCWQtMK3ynih6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV11,http://27.148.240.138/PLTV/88888888/224/3221226888/1.m3u8
+CCTV11,rtsp://27.148.219.129:554/live/ch15102717162059665205.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162059665205&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkXO1CnGiUxdVsBVTaMwuPutcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV12,rtsp://27.148.237.40:554/live/ch17092208110147271148.sdp?playtype=1&FccMediaIP=239.61.2.177&FccMediaPort=9050&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208110147271148&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEOlVZzshLNXCoWnV9kyfTsC6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV12,http://27.148.240.138/PLTV/88888888/224/3221226792/1.m3u8
+CCTV12,rtsp://27.148.219.129:554/live/ch17092208110147271148.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208110147271148&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOwv5iRHMQ%2Bj40nXbfAhXLb5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV13,rtsp://27.148.237.40:554/live/ch15102717162008550635.sdp?playtype=1&FccMediaIP=239.61.2.23&FccMediaPort=8132&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162008550635&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RlHcz0XqT89o8HlqJ0ME346D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+CCTV13,http://27.148.240.138/PLTV/88888888/224/3221226769/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV13,rtsp://27.148.219.129:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162008550635&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlCf4M6F2bL2ubFe6Qfj5LgtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV14,http://27.148.240.138/PLTV/88888888/224/3221226762/1.m3u8
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV14,rtsp://27.148.219.129:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOyv5DUtRd8oc%2BQ%2Bby%2FK7so4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV15,rtsp://27.148.237.40:554/live/ch15102717162037072744.sdp?playtype=1&FccMediaIP=239.61.2.25&FccMediaPort=8144&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4SUg99GDD5Jv5fckSHPxZTE6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV15,http://27.148.240.138/PLTV/88888888/224/3221226775/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
+CCTV15,rtsp://27.148.219.129:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvY2g8SzF4nir%2FMoPrl55otcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV16,http://27.148.240.138/PLTV/88888888/224/3221227352/1.m3u8
+CCTV17,rtsp://27.148.237.40:554/live/ch19073116244855666953.sdp?playtype=1&FccMediaIP=239.61.3.9&FccMediaPort=9572&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldd1ERusUsLm7BObab4tkPQxt7mObrRsHw7M8Iuxmhbyy6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
+CCTV17,rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uYlmqEeSiY7ilafGBzytHgeQXMXS1D9Bq7YYS3stvjq5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV5+,rtsp://27.148.237.40:554/live/ch17092110522954055086.sdp?playtype=1&FccMediaIP=239.61.2.171&FccMediaPort=9014&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092110522954055086&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSopXXyHvdGXXlYOLLa4tYLTVd2pocjb3gRwMU2%2BWjbB6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CCTV5+,http://27.148.240.138/PLTV/88888888/224/3221226850/1.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+,rtsp://27.148.219.129:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110522954055086&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3LhGOtm6HMBkO7D9Dxc9Kd8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CGTN,rtsp://27.148.237.40:554/live/ch15102717162043740968.sdp?playtype=1&FccMediaIP=239.61.2.19&FccMediaPort=8108&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162043740968&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4SdVDvnNgIswmJcB0WeU6rp6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CGTN,rtsp://27.148.219.129:554/live/ch15102717162043740968.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162043740968&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlSW9sw14rr%2FR2sw0sXFKBRtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+爱上4K,rtsp://27.148.219.129:554/live/ch18122110190633826391.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18122110190633826391&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5udNG4Ba7vZ0zVUeX0B%2B%2BlPNAKjtwQXieEkd8yxUN3C5%2BtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 地方,#genre#
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-广东卫视,http://27.148.240.138/PLTV/88888888/224/3221227218/1.m3u8
-天津卫视,http://27.148.240.138/PLTV/88888888/224/3221227222/1.m3u8
-浙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227226/1.m3u8
-北京卫视,http://27.148.240.138/PLTV/88888888/224/3221227234/1.m3u8
-湖南卫视,http://27.148.240.138/PLTV/88888888/224/3221227238/1.m3u8
-辽宁卫视,http://27.148.240.138/PLTV/88888888/224/3221227242/1.m3u8
-甘肃卫视,http://27.148.240.138/PLTV/88888888/224/3221227246/1.m3u8
-吉林卫视,http://27.148.240.138/PLTV/88888888/224/3221227273/1.m3u8
-贵州卫视,http://27.148.240.138/PLTV/88888888/224/3221227277/1.m3u8
+东方卫视,rtsp://27.148.237.40:554/live/ch15102717162086242155.sdp?playtype=1&FccMediaIP=239.61.2.28&FccMediaPort=8162&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4QAW%2Fw3jWWmMjnKEXn1O5sm6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
 东方卫视,http://27.148.240.138/PLTV/88888888/224/3221227281/1.m3u8
-深圳卫视,http://27.148.240.138/PLTV/88888888/224/3221227285/1.m3u8
-四川卫视,http://27.148.240.138/PLTV/88888888/224/3221227289/1.m3u8
-重庆卫视,http://27.148.240.138/PLTV/88888888/224/3221227293/1.m3u8
-山东卫视,http://27.148.240.138/PLTV/88888888/224/3221227300/1.m3u8
-安徽卫视,http://27.148.240.138/PLTV/88888888/224/3221227301/1.m3u8
-江西卫视,http://27.148.240.138/PLTV/88888888/224/3221227304/1.m3u8
-宁夏卫视标清,http://27.148.240.138/PLTV/88888888/224/3221227305/1.m3u8
-河南卫视,http://27.148.240.138/PLTV/88888888/224/3221227308/1.m3u8
-内蒙古卫视标清,http://27.148.240.138/PLTV/88888888/224/3221227309/1.m3u8
+东方卫视,rtsp://27.148.219.129:554/live/ch15102717162086242155.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnoE48cDP3VQ84hqDmstY5CtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+湖南卫视,rtsp://27.148.237.40:554/live/ch15102717162145789452.sdp?playtype=1&FccMediaIP=239.61.2.31&FccMediaPort=8180&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162145789452&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RMNM81oEubSgs5qM5ETRno6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+湖南卫视,http://27.148.240.138/PLTV/88888888/224/3221227238/1.m3u8
+湖南卫视,rtsp://27.148.219.129:554/live/ch15102717162145789452.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162145789452&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlo5IKcht21qLksibFAyWsKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+江苏卫视,rtsp://27.148.237.40:554/live/ch15102717162168388215.sdp?playtype=1&FccMediaIP=239.61.2.30&FccMediaPort=8174&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162168388215&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4TTgSUEHwN9RkGRun%2B7WXY76D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
 江苏卫视,http://27.148.240.138/PLTV/88888888/224/3221227312/1.m3u8
-河北卫视,http://27.148.240.138/PLTV/88888888/224/3221227316/1.m3u8
-黑龙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227319/1.m3u8
-海南卫视,http://27.148.240.138/PLTV/88888888/224/3221227320/1.m3u8
-山西卫视标清,http://27.148.240.138/PLTV/88888888/224/3221227323/1.m3u8
-陕西卫视标清,http://27.148.240.138/PLTV/88888888/224/3221227324/1.m3u8
-广西卫视,http://27.148.240.138/PLTV/88888888/224/3221227328/1.m3u8
-新疆卫视标清,http://27.148.240.138/PLTV/88888888/224/3221227332/1.m3u8
-金鹰纪实,http://27.148.240.138/PLTV/88888888/224/3221227031/1.m3u8
-
-湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
-重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
-江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
-浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
-天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
-贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
-四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
-东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
-江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
-吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
-广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
-东南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
-第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-求索纪录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
-游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
-怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
-高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
-早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
-
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+江苏卫视,rtsp://27.148.219.129:554/live/ch15102717162168388215.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162168388215&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmNIYM2Zss6bDqSwRNobsJhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+浙江卫视,rtsp://27.148.237.40:554/live/ch15102717162191956583.sdp?playtype=1&FccMediaIP=239.61.2.29&FccMediaPort=8168&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162191956583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4TE78gNbIjftjp2E84szQwP6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227226/1.m3u8
+浙江卫视,rtsp://27.148.219.129:554/live/ch15102717162191956583.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162191956583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrksirwnBar1B9u3S5%2BTNWw4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+河北卫视,rtsp://27.148.237.40:554/live/ch15102717162108825623.sdp?playtype=1&FccMediaIP=239.61.2.57&FccMediaPort=8336&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162108825623&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RPfIYopU2e%2BmiiUF%2BQt8cf6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+河北卫视,http://27.148.240.138/PLTV/88888888/224/3221227316/1.m3u8
+河北卫视,rtsp://27.148.219.129:554/live/ch15102717162108825623.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162108825623&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnl52k%2B0%2B2f7kafhenERSbFtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+广东卫视,rtsp://27.148.237.40:554/live/ch15102717162184416594.sdp?playtype=1&FccMediaIP=239.61.2.33&FccMediaPort=8192&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4QY7rh%2F1AaaPRaLDVfsDa3J6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+广东卫视,http://27.148.240.138/PLTV/88888888/224/3221227218/1.m3u8
+广东卫视,rtsp://27.148.219.129:554/live/ch15102717162184416594.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkGU1bqbl%2FYuy2e0PG2wNtWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+山东卫视,rtsp://27.148.237.40:554/live/ch15111011110075906735.sdp?playtype=1&FccMediaIP=239.61.2.119&FccMediaPort=8708&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15111011110075906735&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQs1Zo8jI14gSyMd4SCMe%2BMNzdEhezsdv4YDytvF7FbA6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+山东卫视,http://27.148.240.138/PLTV/88888888/224/3221227300/1.m3u8
+山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+山东卫视,rtsp://27.148.219.129:554/live/ch15111011110075906735.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15111011110075906735&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uSn%2BAs55lVZTrBnprv%2BykPK3ti0KC0fE6axIrc7OQGx3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+湖北卫视,rtsp://27.148.237.40:554/live/ch15111011082361717939.sdp?playtype=1&FccMediaIP=239.61.2.120&FccMediaPort=8714&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15111011082361717939&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldYq%2BssjUwxXKk9QDV2wbm0iSpdvyYz4SsIlfpUHQw18C6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+湖北卫视,rtsp://27.148.219.129:554/live/ch15111011082361717939.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15111011082361717939&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZJkn4peSC6wyRToTctCaeoziALnewbiLKmADJ%2Bhpw6YtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+黑龙江卫视,rtsp://27.148.237.40:554/live/ch15102717162113164781.sdp?playtype=1&FccMediaIP=239.61.2.34&FccMediaPort=8198&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162113164781&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4R0otMj8L%2FcJuW8InBGkk276D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+黑龙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227319/1.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+黑龙江卫视,rtsp://27.148.219.129:554/live/ch15102717162113164781.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162113164781&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrm14jVTrqgBjl03Q87RR1JDtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+贵州卫视,rtsp://27.148.237.40:554/live/ch17041215341272355599.sdp?playtype=1&FccMediaIP=239.61.2.159&FccMediaPort=8942&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17041215341272355599&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRIQyZRKVjWfJ1h8IFC7SyFRbyt0%2BecDQA%2F9yxlMhqXv6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+贵州卫视,http://27.148.240.138/PLTV/88888888/224/3221227277/1.m3u8
+贵州卫视,rtsp://27.148.219.129:554/live/ch17041215341272355599.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041215341272355599&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucF7p3Mh2bbrj5hDT7vBbGIpAjnKW492C9O3BZnUgHKRtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+安徽卫视,rtsp://27.148.237.40:554/live/ch18100816341109258484.sdp?playtype=1&FccMediaIP=239.61.2.248&FccMediaPort=9476&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18100816341109258484&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldejOfF66zOMWp5O5aEH17eIJSi40REt%2Box93FJgB8lNw6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+安徽卫视,http://27.148.240.138/PLTV/88888888/224/3221227301/1.m3u8
+安徽卫视,rtsp://27.148.219.129:554/live/ch18100816341109258484.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18100816341109258484&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uU1eF6RvYf0mbTK7y7EHzoPBjHUHfaYYjPYL56%2FO5WMTtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+天津卫视,rtsp://27.148.237.40:554/live/ch18010423254205139387.sdp?playtype=1&FccMediaIP=239.61.2.180&FccMediaPort=9068&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18010423254205139387&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbt3azOPXr7%2BZRWbBjC61UjR67cy0XOxbMMR1qvFrDhY6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+天津卫视,http://27.148.240.138/PLTV/88888888/224/3221227222/1.m3u8
+天津卫视,rtsp://27.148.219.129:554/live/ch18010423254205139387.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423254205139387&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXffCP1YLxZywS5finID4X5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+四川卫视,rtsp://27.148.237.40:554/live/ch18111315332814229891.sdp?playtype=1&FccMediaIP=239.61.2.251&FccMediaPort=9494&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18111315332814229891&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSKPPi0uP7ThQ4ioje%2FCSxqDIm4ezi1NBvwX%2BWIIQ20X6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+四川卫视,http://27.148.240.138/PLTV/88888888/224/3221227289/1.m3u8
+四川卫视,rtsp://27.148.219.129:554/live/ch18111315332814229891.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315332814229891&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bIuRLc0Ijl9Db2%2BCzbFOhxptcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+江西卫视,rtsp://27.148.237.40:554/live/ch18010423261264213862.sdp?playtype=1&FccMediaIP=239.61.2.182&FccMediaPort=9080&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18010423261264213862&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbt3azOPXr7%2BZRWbBjC61UglpgFfiVnQvu5bJFPkjh%2B56D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+江西卫视,http://27.148.240.138/PLTV/88888888/224/3221227304/1.m3u8
+江西卫视,rtsp://27.148.219.129:554/live/ch18010423261264213862.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423261264213862&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriUIWq3Hq%2FxniEnPCXEixybhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+辽宁卫视,rtsp://27.148.237.40:554/live/ch18010423255574195595.sdp?playtype=1&FccMediaIP=239.61.2.181&FccMediaPort=9074&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18010423255574195595&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbt3azOPXr7%2BZRWbBjC61Uj9hwjPFWRdd985UcaDNske6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+辽宁卫视,http://27.148.240.138/PLTV/88888888/224/3221227242/1.m3u8
+辽宁卫视,rtsp://27.148.219.129:554/live/ch18010423255574195595.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423255574195595&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXgD1uF4Qnrn7rUlS3MhdE0tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
+重庆卫视,rtsp://27.148.237.40:554/live/ch18111315305080098570.sdp?playtype=1&FccMediaIP=239.61.2.250&FccMediaPort=9488&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18111315305080098570&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSKPPi0uP7ThQ4ioje%2FCSxpuk2bSZU9V1mgnsd8%2BJV1j6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+重庆卫视,http://27.148.240.138/PLTV/88888888/224/3221227293/1.m3u8
+重庆卫视,rtsp://27.148.219.129:554/live/ch18111315305080098570.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315305080098570&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bJ2CT4aMMV7ICYT2bZaHiSatcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+北京卫视,rtsp://27.148.237.40:554/live/ch15102717162108426467.sdp?playtype=1&FccMediaIP=239.61.2.32&FccMediaPort=8186&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162108426467&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4T7h9Vfr9lKU6Wqw7vbzL%2FX6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+北京卫视,http://27.148.240.138/PLTV/88888888/224/3221227234/1.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+北京卫视,rtsp://27.148.219.129:554/live/ch15102717162108426467.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162108426467&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkFKcahlHxGvQw%2Bn1Pd%2FELktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+云南卫视,rtsp://27.148.237.40:554/live/ch15102717162125393898.sdp?playtype=1&FccMediaIP=239.61.2.61&FccMediaPort=8360&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162125393898&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4S61Fk4dUAif%2BBsa943F3EJ6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+云南卫视,rtsp://27.148.219.129:554/live/ch15102717162125393898.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162125393898&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrk2EGR42Q3pRUep%2FWHWmwB%2FtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+河南卫视,rtsp://27.148.237.40:554/live/ch15102717162143318342.sdp?playtype=1&FccMediaIP=239.61.2.59&FccMediaPort=8348&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162143318342&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4SewUj8Z%2FcBn%2BPt2o16Y0YT6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+河南卫视,http://27.148.240.138/PLTV/88888888/224/3221227308/1.m3u8
+河南卫视,rtsp://27.148.219.129:554/live/ch15102717162143318342.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162143318342&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnSJc6hJod%2BSuIOCykX8ZH7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+海南卫视,rtsp://27.148.237.40:554/live/ch15102717162116408744.sdp?playtype=1&FccMediaIP=239.61.2.42&FccMediaPort=8246&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162116408744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4T3aM29Vn%2B%2Bh5W2ohSciotY6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+海南卫视,http://27.148.240.138/PLTV/88888888/224/3221227320/1.m3u8
+海南卫视,rtsp://27.148.219.129:554/live/ch15102717162116408744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162116408744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkAhTEp3jZtlML3HURzqTHztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+三沙卫视,rtsp://27.148.237.40:554/live/ch19091709173330412950.sdp?playtype=1&FccMediaIP=239.61.3.10&FccMediaPort=9578&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19091709173330412950&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUqV0d5Tp9D1ScYLBYr80gHpIQ9wAey%2F507kYUdSysjC6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+三沙卫视,rtsp://27.148.219.129:554/live/ch19091709173330412950.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19091709173330412950&ctype=2&TSTVTimeLife=604800&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uRBbvT7yDUDsLlcfEsy8IYra7Y9e5RZYRnCO7i6RYRYYtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+广西卫视,rtsp://27.148.237.40:554/live/ch15102717162178038031.sdp?playtype=1&FccMediaIP=239.61.2.48&FccMediaPort=8282&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162178038031&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RlVyEuezodERLiw0xtlDAq6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+广西卫视,http://27.148.240.138/PLTV/88888888/224/3221227328/1.m3u8
+广西卫视,rtsp://27.148.219.129:554/live/ch15102717162178038031.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162178038031&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnzsBuHRdt7wnKFD0pPIWSftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+陕西卫视,rtsp://27.148.237.40:554/live/ch15102717162169622851.sdp?playtype=1&FccMediaIP=239.61.2.38&FccMediaPort=8222&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162169622851&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RkdTcYNHdG7yetUYSWpDeS6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+陕西卫视,http://27.148.240.138/PLTV/88888888/224/3221227324/1.m3u8
+陕西卫视,rtsp://27.148.219.129:554/live/ch15102717162169622851.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162169622851&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrm4niuoC3D0mu%2FnQXwXjvnUtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+陕西卫视,rtsp://27.148.219.129:554/live/ch18051116203766478580.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116203766478580&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WGHYsv%2F9WxEmm88g%2FBum4iWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+青海卫视,rtsp://27.148.237.40:554/live/ch15102717162187662339.sdp?playtype=1&FccMediaIP=239.61.2.60&FccMediaPort=8354&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162187662339&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RLPwlS9N0AiHIXArc0ezjb6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,rtsp://27.148.219.129:554/live/ch15102717162187662339.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162187662339&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlWw%2FGaTOI%2Bhr3ARcY4BGUctcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+宁夏卫视,rtsp://27.148.237.40:554/live/ch15102717162173773216.sdp?playtype=1&FccMediaIP=239.61.2.56&FccMediaPort=8330&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162173773216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4Twd8XiSIEs0VteIqy3PudH6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+宁夏卫视,http://27.148.240.138/PLTV/88888888/224/3221227305/1.m3u8
+吉林卫视,rtsp://27.148.237.40:554/live/ch18051116194226346624.sdp?playtype=1&FccMediaIP=239.61.2.223&FccMediaPort=9326&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116194226346624&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaoGjkIQ%2Biioo6i8jP9IZQsHbkcaNysOecqWmD%2B6CcBa6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+吉林卫视,http://27.148.240.138/PLTV/88888888/224/3221227273/1.m3u8
+吉林卫视,rtsp://27.148.219.129:554/live/ch18051116194226346624.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116194226346624&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5udseqSJ41QEB301Df1aywHdVRJD3o1mBshsPr3hVu%2BEQtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+山西卫视,rtsp://27.148.237.40:554/live/ch18051116203766478580.sdp?playtype=1&FccMediaIP=239.61.2.224&FccMediaPort=9332&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116203766478580&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUDgVa%2BbZ59LdtD9fxvU5PX2Ove9ewFdYkY8OEDJCmEt6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+山西卫视,http://27.148.240.138/PLTV/88888888/224/3221227323/1.m3u8
+甘肃卫视,rtsp://27.148.237.40:554/live/ch18051116230173626842.sdp?playtype=1&FccMediaIP=239.61.2.225&FccMediaPort=9338&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116230173626842&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUDgVa%2BbZ59LdtD9fxvU5PXjU60%2FzhdFncjK%2FfqhMl1Q6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+甘肃卫视,http://27.148.240.138/PLTV/88888888/224/3221227246/1.m3u8
+甘肃卫视,rtsp://27.148.219.129:554/live/ch18051116230173626842.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116230173626842&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WEFXv9foar%2FgsilZ%2BSoMONqtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+内蒙古卫视,rtsp://27.148.237.40:554/live/ch18051116231710747191.sdp?playtype=1&FccMediaIP=239.61.2.226&FccMediaPort=9344&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116231710747191&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUDgVa%2BbZ59LdtD9fxvU5PXi1scFeh3I8SKX6q3BkiMX6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+内蒙古卫视,http://27.148.240.138/PLTV/88888888/224/3221227309/1.m3u8
+内蒙古卫视,rtsp://27.148.219.129:554/live/ch18051116231710747191.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116231710747191&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHWF3lihd6Coe8K%2BWYlaKx6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+新疆卫视,rtsp://27.148.237.40:554/live/ch18051116232899271583.sdp?playtype=1&FccMediaIP=239.61.2.227&FccMediaPort=9350&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116232899271583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUDgVa%2BbZ59LdtD9fxvU5PUYwZQQ2SBBqXIINrofbSuJ6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+新疆卫视,http://27.148.240.138/PLTV/88888888/224/3221227332/1.m3u8
+新疆卫视,rtsp://27.148.219.129:554/live/ch18051116232899271583.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116232899271583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHK1A6S4YLl%2B7fwO4FPMSawtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+兵团卫视,rtsp://27.148.237.40:554/live/ch18051116233733109443.sdp?playtype=1&FccMediaIP=239.61.2.228&FccMediaPort=9356&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116233733109443&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUDgVa%2BbZ59LdtD9fxvU5PV4SqcUoWM5NUCJvlJpJE0u6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+兵团卫视,rtsp://27.148.219.129:554/live/ch18051116233733109443.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116233733109443&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHSiWmCfc%2FoLZl%2BOldAAC74tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+西藏卫视,rtsp://27.148.237.40:554/live/ch18051116234822851422.sdp?playtype=1&FccMediaIP=239.61.2.229&FccMediaPort=9362&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116234822851422&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldUDgVa%2BbZ59LdtD9fxvU5PWj07vSTYPdsOALEBKX%2FUk56D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+西藏卫视,rtsp://27.148.219.129:554/live/ch18051116234822851422.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116234822851422&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WE5xxsx1EIl%2FLE%2FjBC7Ww1utcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+南方卫视,rtsp://27.148.237.40:554/live/ch19011109345458761991.sdp?playtype=1&FccMediaIP=239.61.3.5&FccMediaPort=9548&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19011109345458761991&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldd9cKyX941P5NzFuXYD53wvdiUyr2pqIYU6JdotSqUgn6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+中国教育1,rtsp://27.148.237.40:554/live/ch17081012040985783403.sdp?playtype=1&FccMediaIP=239.61.2.167&FccMediaPort=8990&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17081012040985783403&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldfD8DouWd9kK%2BXn6vI7hzOG0636JG9N85hF3G%2BUrSjEh6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+中国教育2,rtsp://27.148.237.40:554/live/ch19011415055733660637.sdp?playtype=1&FccMediaIP=239.61.3.6&FccMediaPort=9554&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19011415055733660637&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSddpJisXeIIar9Om4qyPu%2Bl6TE%2BFxlKyH1e%2BViQ1tSV6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+纪实人文,rtsp://27.148.237.40:554/live/ch17081012003923835755.sdp?playtype=1&FccMediaIP=239.61.2.165&FccMediaPort=8978&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17081012003923835755&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldfD8DouWd9kK%2BXn6vI7hzOEvYSQXm%2BlxhbIxt7aL%2FleY6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+金鹰卡通,rtsp://27.148.237.40:554/live/ch18051116144984651176.sdp?playtype=1&FccMediaIP=239.61.2.221&FccMediaPort=9314&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116144984651176&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaoGjkIQ%2Biioo6i8jP9IZQuBcYgMWGAhjcYQnsrVDLCE6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+卡酷卡通,rtsp://27.148.237.40:554/live/ch18051116150082634005.sdp?playtype=1&FccMediaIP=239.61.2.222&FccMediaPort=9320&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18051116150082634005&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaoGjkIQ%2Biioo6i8jP9IZQvx3m1TfcfNMb3vJdvwp%2FI16D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+金鹰纪实,rtsp://27.148.237.40:554/live/ch19040410203183192171.sdp?playtype=1&FccMediaIP=239.61.3.7&FccMediaPort=9560&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19040410203183192171&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldYaMwrnK74Gfzewo82wzlokeLqMZEq2L0K6eEvg0jUz46D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+金鹰纪实,http://27.148.240.138/PLTV/88888888/224/3221227031/1.m3u8
+金鹰纪实,rtsp://27.148.219.129:554/live/ch19040410203183192171.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19040410203183192171&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZ421LHJBtTvM6b5Xw3TkrPDISKIz6d7fNIZUmI02eKztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+哈哈炫动,rtsp://27.148.237.40:554/live/ch15102717162121396096.sdp?playtype=1&FccMediaIP=239.61.2.70&FccMediaPort=8414&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162121396096&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4SMTOk5yxK3OVI9Pzvm5n156D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+嘉佳卡通,rtsp://27.148.237.40:554/live/ch15102717162106888181.sdp?playtype=1&FccMediaIP=239.61.2.72&FccMediaPort=8426&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162106888181&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RBXReQgfaBNgTWeYOfa1yp6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+深圳卫视,http://27.148.240.138/PLTV/88888888/224/3221227285/1.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-
+卫视宁夏,rtsp://27.148.219.129:554/live/ch15102717162173773216.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162173773216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmCK%2BVOEQ6wntynUQMO%2B%2Bl6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CETV-1,rtsp://27.148.219.129:554/live/ch17081012040985783403.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012040985783403&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnRPOwC1kGvgGgf2PZxi%2FkP8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+纪实,rtsp://27.148.219.129:554/live/ch17081012003923835755.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012003923835755&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQoD9AwrzYYOQdpttfUjhaLtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CETV-2,rtsp://27.148.219.129:554/live/ch19011415055733660637.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19011415055733660637&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQCzNmK6s2F0OFWgwaaeZbY%2Bn2GhhyFhg7f5ICS%2Bx839tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+广东南方卫视,rtsp://27.148.219.129:554/live/ch19011109345458761991.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19011109345458761991&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufavIPQgCSxklZguDbOHHTinAzEZnI%2BO0%2BGCmTfbtYmKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+欢乐剧场,rtsp://27.148.219.129:554/live/ch16091400245502369823.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400245502369823&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZvV9XTe8u6npT%2BKUQeCTXXTpxLoLcVQ7fnEAZt1ZruktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+全纪实,rtsp://27.148.219.129:554/live/ch16091400304724147209.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400304724147209&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1IE0sYSxWnpY3lul5ojm%2B7ktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+法制天地,rtsp://27.148.219.129:554/live/ch15102717162120235919.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162120235919&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnnNXBXWHdXoZERsOfKvK2QtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+东方财经,rtsp://27.148.219.129:554/live/ch15102717162143630769.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162143630769&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmylfXysJoOkD%2Bau8TfzB8BtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+金色频道,rtsp://27.148.219.129:554/live/ch15102717162154158855.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162154158855&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmTE4XISX2DGpLYfCf8UGk7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+快乐垂钓,rtsp://27.148.219.129:554/live/ch19061315471496603667.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19061315471496603667&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubLZ6kZcwAy0TmXOIMdHSKazerdOYCsl%2FDpsB63qDyEQtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+生活时尚,rtsp://27.148.219.129:554/live/ch16091400174619400545.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400174619400545&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQln5C%2BNvw5z3QGpcdCQtRh%2B9t6LzHlNkMK04%2BsS86IOtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+第一财经,rtsp://27.148.219.129:554/live/ch15102717162223553708.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162223553708&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmjOEVuliGmSNmh65%2BMnBdAtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 港澳台,#genre#
+凤凰卫视,rtsp://27.148.237.40:554/live/ch18011614353125275996.sdp?playtype=1&FccMediaIP=239.61.2.183&FccMediaPort=9086&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSjARRpc9REGYzB%2FhQwKkqUfcUp%2BwzgXGhTwNFPyG7sm6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+凤凰新闻,rtsp://27.148.237.40:554/live/ch18011614354694706611.sdp?playtype=1&FccMediaIP=239.61.2.184&FccMediaPort=9092&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSjARRpc9REGYzB%2FhQwKkqWPey0%2Fv1nMRKXHd4%2BU%2F%2FSV6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
 凤凰资讯,http://27.148.240.138/PLTV/88888888/224/3221226929/1.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-明珠台,http://r.jdshipin.com/ZQ4kN
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
-
+凤凰资讯,rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
+凤凰中文,rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wz7gphRsY4rBgMC6H9%2FFx%2BJ%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港J2频道,http://r.jdshipin.com/Nr5jq
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-澳门莲花,https://cntv.sbs/tv/lhws.php
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
-
-
 福建,#genre#
-泉州新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.98:1025
-三明新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.93:1025
-三沙卫视,http://e2.woc.iiiya.cn:8888/udp/239.61.5.191:1025
-厦门1,http://e2.woc.iiiya.cn:8888/udp/239.61.4.139:1025
-厦门1,http://e2.woc.iiiya.cn:8888/udp/239.61.5.99:1025
-厦门2,http://e2.woc.iiiya.cn:8888/udp/239.61.4.140:1025
-厦门卫视[785*576],http://e2.woc.iiiya.cn:8888/udp/239.61.4.11:1025
-莆田新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.94:1025
-都市剧场,http://27.148.240.138/PLTV/88888888/224/3221226724/1.m3u8
-福建电视剧,http://e2.woc.iiiya.cn:8888/udp/239.61.4.5:1025
-福建公共,http://e2.woc.iiiya.cn:8888/udp/239.61.4.3:1025
-福建交通广播HD,http://e2.woc.iiiya.cn:8888/udp/239.61.5.155:1025
-福建教育,http://e2.woc.iiiya.cn:8888/udp/239.61.5.60:1025
-福建经济HD,http://e2.woc.iiiya.cn:8888/udp/239.61.4.7:1025
-福建旅游,http://e2.woc.iiiya.cn:8888/udp/239.61.4.6:1025
-福建少儿,http://e2.woc.iiiya.cn:8888/udp/239.61.4.9:1025
-福建体育,http://e2.woc.iiiya.cn:8888/udp/239.61.5.44:1025
-福建新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.4.4:1025
-福建综合,http://e2.woc.iiiya.cn:8888/udp/239.61.5.167:1025
-福建综合[751*576],http://e2.woc.iiiya.cn:8888/udp/239.61.4.1:1025
-福州新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.97:1025
-福建电视剧,http://27.148.240.138/PLTV/88888888/224/3221226732/1.m3u8
-福建新闻,http://27.148.240.138/PLTV/88888888/224/3221226736/1.m3u8
-福建少儿,,http://27.148.240.138/PLTV/88888888/224/3221226738/1.m3u8
-厦门卫视标清,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
-福建综合标清,http://27.148.240.138/PLTV/88888888/224/3221226745/1.m3u8
-海峡卫视,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
-福建文体,http://27.148.240.138/PLTV/88888888/224/3221226749/1.m3u8
-动漫秀场,,http://27.148.240.138/PLTV/88888888/224/3221226750/1.m3u8
+福建综合,rtsp://27.148.237.40:554/live/ch18122115512978075826.sdp?playtype=1&FccMediaIP=239.61.3.4&FccMediaPort=9542&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18122115512978075826&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldfCgB9h2BzkP1JWYygdXv4KGkJwRqtBEzdsVPg4nbEi16D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+福建综合,rtsp://27.148.237.40:554/live/ch15102621311662932570.sdp?playtype=1&FccMediaIP=239.61.2.1&FccMediaPort=8000&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102621311662932570&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldb1m13m%2Bxnh1L6k2krA9WIbtLIqkQ2zsRXs%2BIncKQmNk6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+福建综合,rtsp://27.148.219.129:554/live/ch18122115512978075826.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18122115512978075826&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uV8vrVVUWyrQhbVQ%2BpNmgiJi%2BBf0vCMeagcVdGQMouH3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建综合,http://27.148.240.138/PLTV/88888888/224/3221226745/1.m3u8
+东南卫视,rtsp://27.148.237.40:554/live/ch16042815324509410461.sdp?playtype=1&FccMediaIP=239.61.2.132&FccMediaPort=8708&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbecgyf%2Fff6PH2tzV9y9qIUoWuP9%2FAyKaRQUALA5gLtA6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 东南卫视,http://27.148.240.138/PLTV/88888888/224/3221226754/1.m3u8
+东南卫视,rtsp://27.148.219.129:554/live/ch16042815324509410461.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uVjKIGPXSLrTux8z3WpvG0ppRRvXyWYHYAXshGmKlw6TtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+乡村振兴,rtsp://27.148.237.40:554/live/ch15102710565314111610.sdp?playtype=1&FccMediaIP=239.61.2.3&FccMediaPort=8012&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102710565314111610&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSSHBbxUwqNviWULxAIoW0BYgoxFRVL5TVa8PUDeUqrM6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+福建新闻,rtsp://27.148.237.40:554/live/ch15102712014936453054.sdp?playtype=1&FccMediaIP=239.61.2.4&FccMediaPort=8018&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102712014936453054&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSBUDbQFs%2F9%2B6viNZHPr8CLLFUXzaKLBaITj%2FNT5Rp2Z6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+福建新闻,http://27.148.240.138/PLTV/88888888/224/3221226736/1.m3u8
+福建新闻,rtsp://27.148.219.129:554/live/ch15102712014936453054.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712014936453054&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uRHJnj0PWLtYvp0FBZqC2E68leUsZRGjr3kSuaxn8%2BrctcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建电视剧,rtsp://27.148.237.40:554/live/ch15102717162032881873.sdp?playtype=1&FccMediaIP=239.61.2.5&FccMediaPort=8024&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162032881873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4Rx6Sec5gZVL60wpvb%2FKmb36D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+福建电视剧,http://27.148.240.138/PLTV/88888888/224/3221226732/1.m3u8
+福建电视剧,rtsp://27.148.219.129:554/live/ch15102717162032881873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162032881873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlfRMO13qUTDugvkPreeeOetcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建旅游,rtsp://27.148.237.40:554/live/ch15102717162061906016.sdp?playtype=1&FccMediaIP=239.61.2.6&FccMediaPort=8030&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162061906016&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4TXZIE%2BIUrx%2B5f1yqM2Rqh%2B6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+福建旅游,http://27.148.240.138/PLTV/88888888/224/3221226854/1.m3u8
+福建旅游,rtsp://27.148.219.129:554/live/ch15102717162061906016.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162061906016&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrl6J0Gbl2ODo8ZJDYSU5ZOqtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建经济生活,rtsp://27.148.237.40:554/live/ch15102717162009517302.sdp?playtype=1&FccMediaIP=239.61.2.7&FccMediaPort=8036&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162009517302&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4Sgatv4ZUoONFTBQwOPLttr6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+福建体育,rtsp://27.148.237.40:554/live/ch17041318323608461611.sdp?playtype=1&FccMediaIP=239.61.2.160&FccMediaPort=8948&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17041318323608461611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldd%2Ffv6j4fADnrO2alzZftwbH9aXvMjFPgC%2BQT5e6GGPU6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+福建体育,rtsp://27.148.219.129:554/live/ch17041318323608461611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041318323608461611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucHtYhAF0s6wwh48Op25iOmev1F5PtW2MjhQ44pQ4CSytcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建少儿,rtsp://27.148.237.40:554/live/ch15102717162041774825.sdp?playtype=1&FccMediaIP=239.61.2.9&FccMediaPort=8048&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4RnACBoMeKSkTXzaps5eSPS6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+福建少儿,rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkNDqvWMOeCbhp%2B%2Fa4FtAaXtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+海峡卫视,rtsp://27.148.237.40:554/live/ch17033111334107910034.sdp?playtype=1&FccMediaIP=239.61.2.151&FccMediaPort=8894&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTQPl6jv%2Bl9IrdP%2BceDuFf9x3nKI9fwRTdRRJBsNkZYa6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+海峡卫视,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
+海峡卫视,rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建教育,rtsp://27.148.237.40:554/live/ch17092110554866036216.sdp?playtype=1&FccMediaIP=239.61.2.173&FccMediaPort=9026&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092110554866036216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldSopXXyHvdGXXlYOLLa4tYKMdz1EU0WZWsoErpspG71W6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+福建教育,http://27.148.240.138/PLTV/88888888/224/3221226884/1.m3u8
+厦门卫视,rtsp://27.148.237.40:554/live/ch15102712173616484873.sdp?playtype=1&FccMediaIP=239.61.2.11&FccMediaPort=8060&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQa53XybtsOTjRTG79ACCHIEyurNMwHh%2Fv383N6aIVKM6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
+福州新闻,rtsp://27.148.237.40:554/live/ch18021018575987660580.sdp?playtype=1&FccMediaIP=239.61.2.212&FccMediaPort=9260&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018575987660580&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNWGMZYVIIe8zidKqdkWrFpm6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+厦门1套,rtsp://27.148.237.40:554/live/ch18021018582713742946.sdp?playtype=1&FccMediaIP=239.61.2.213&FccMediaPort=9266&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018582713742946&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNUlFjbSv9Q%2BojaKxXRHDdOD6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+漳州新闻,rtsp://27.148.237.40:554/live/ch18021018563878531243.sdp?playtype=1&FccMediaIP=239.61.2.164&FccMediaPort=8972&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018563878531243&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNUSgTIDhh3zr55LBTL1PMd86D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+泉州新闻,rtsp://27.148.237.40:554/live/ch18020116435220856291.sdp?playtype=1&FccMediaIP=239.61.2.193&FccMediaPort=9146&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18020116435220856291&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQkOQjL8bQfB2zNVwKI2dHXpQDZHOJUdndiTAYGVnApG6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+三明新闻,rtsp://27.148.237.40:554/live/ch18021018570726044306.sdp?playtype=1&FccMediaIP=239.61.2.208&FccMediaPort=9236&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018570726044306&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNWwUTCmIKmc7yE49t%2FUSk5B6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+莆田新闻,rtsp://27.148.237.40:554/live/ch18021018571856751097.sdp?playtype=1&FccMediaIP=239.61.2.209&FccMediaPort=9242&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018571856751097&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNWMUum1FMStDU1nbjZb%2BGGE6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+南平新闻,rtsp://27.148.237.40:554/live/ch18021018565597819147.sdp?playtype=1&FccMediaIP=239.61.2.207&FccMediaPort=9230&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018565597819147&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNUBSxEseI6gRz1pJz5OPWsQ6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+龙岩新闻,rtsp://27.148.237.40:554/live/ch18021018573041536970.sdp?playtype=1&FccMediaIP=239.61.2.210&FccMediaPort=9248&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018573041536970&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNWlC%2BqlN36Q88EEZ2tguNTJ6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+宁德新闻,rtsp://27.148.237.40:554/live/ch18021018574362353141.sdp?playtype=1&FccMediaIP=239.61.2.211&FccMediaPort=9254&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018574362353141&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNVF1g3I0eQ%2B%2FzjaVmULtthA6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+平潭1套,rtsp://27.148.237.40:554/live/ch18111517242607846812.sdp?playtype=1&FccMediaIP=239.61.2.230&FccMediaPort=9368&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18111517242607846812&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldT0U48Gz6I1FM00EMYk1ddKxqKQWlKUedfwiGcsgUFRm6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+都市剧场,http://27.148.240.138/PLTV/88888888/224/3221226724/1.m3u8
+都市剧场,rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1I%2FOGlGIjuF8wudq6aVTXbftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建文体,http://27.148.240.138/PLTV/88888888/224/3221226749/1.m3u8
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
-永安综合频道,http://218.106.152.196/lsdream/x6FnPrm/2000/live.m3u8?fujian
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-建宁综合频道,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
-福建旅游,http://27.148.240.138/PLTV/88888888/224/3221226854/1.m3u8
-福建教育,http://27.148.240.138/PLTV/88888888/224/3221226884/1.m3u8
 福建经济,http://27.148.240.138/PLTV/88888888/224/3221226920/1.m3u8
+福建经济,rtsp://27.148.219.129:554/live/ch15102717162009517302.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162009517302&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlYZl5heb%2FqGZQm6c9bFD1ztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 福建乡村振兴•公共,http://27.148.240.138/PLTV/88888888/224/3221226928/1.m3u8
-福建新罗,http://stream.lyxltv.com/xltv/sd/live.m3u8
-
+福建公共,rtsp://27.148.219.129:554/live/ch15102710565314111610.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102710565314111610&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQbgHoMPMbQhuo7ruVZoAa2Qt%2BAnb32XZUZzgl2r7BU2tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+FETV,rtsp://27.148.219.129:554/live/ch17092110554866036216.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110554866036216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3KH4SV%2FW4UA%2Bi%2BwW0FMrM0jtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+其它,#genre#
+动漫秀场,rtsp://27.148.237.40:554/live/ch16091400384407142682.sdp?playtype=1&FccMediaIP=239.61.2.148&FccMediaPort=8876&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16091400384407142682&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbnibZj9cAr35AzdHFXBJNEQihZCegbMtir0L9AlWVTJ6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+动漫秀场,rtsp://27.148.236.129:554/live/ch16091400384407142682.sdp?FccMediaIP=239.61.2.148&FccMediaPort=8876&vcdnid=001&mediaid=ch16091400384407142682&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPejgUH5AJrrQcAgxMJnjN%2BwhwjkDOM4Tg9Vt1zcQaJtKK0d8RtgP2DayASZlOpMLMaA%3D%3D
+游戏风云,rtsp://27.148.237.40:554/live/ch16091400233071612122.sdp?playtype=1&FccMediaIP=239.61.2.145&FccMediaPort=8858&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16091400233071612122&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldfKhWoYOuWz3zC0OUGBKqyIbYyI42V8EGsJ5jCiEJXL26D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+游戏风云,rtsp://27.148.236.129:554/live/ch16091400233071612122.sdp?FccMediaIP=239.61.2.145&FccMediaPort=8858&vcdnid=001&mediaid=ch16091400233071612122&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeq7RO6LRsat1Eb79mQgLAU%2ByHe5bOPmgcoLHbdWUq01P0d8RtgP2DayASZlOpMLMaA%3D%3D
+全纪实,rtsp://27.148.237.40:554/live/ch16091400304724147209.sdp?playtype=1&FccMediaIP=239.61.2.147&FccMediaPort=8870&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16091400304724147209&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbnibZj9cAr35AzdHFXBJNHTNPz%2BihkD3aQGl5pW3BUZ6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+法治天地,rtsp://27.148.237.40:554/live/ch15102717162120235919.sdp?playtype=1&FccMediaIP=239.61.2.75&FccMediaPort=8444&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162120235919&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4R3LU2yAQbOJ9w9whwOgvts6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+法治天地,rtsp://27.148.236.129:554/live/ch15102717162120235919.sdp?FccMediaIP=239.61.2.75&FccMediaPort=8444&vcdnid=001&mediaid=ch15102717162120235919&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdm3snpbQuJUp0elCDZ2nZy30d8RtgP2DayASZlOpMLMaA%3D%3D
+东方财经,rtsp://27.148.237.40:554/live/ch15102717162143630769.sdp?playtype=1&FccMediaIP=239.61.2.76&FccMediaPort=8450&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162143630769&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4T1yf2aH2vDk4XmRT5BVmeV6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+金色频道,rtsp://27.148.237.40:554/live/ch15102717162154158855.sdp?playtype=1&FccMediaIP=239.61.2.78&FccMediaPort=8462&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162154158855&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4TG4E590qrjzF0GYPHdnhNb6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+快乐垂钓,rtsp://27.148.237.40:554/live/ch19061315471496603667.sdp?playtype=1&FccMediaIP=239.61.3.8&FccMediaPort=9566&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch19061315471496603667&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldfAiQm%2Bk4bkSTWQML3Fy3D3tw%2BKSvKRmZVyyYrdzC3K26D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+生活时尚,rtsp://27.148.237.40:554/live/ch16091400174619400545.sdp?playtype=1&FccMediaIP=239.61.2.141&FccMediaPort=8834&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16091400174619400545&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldStUkwDbxC0PDCxgHe3R7Gn7DNy%2FIK0i%2BQVu7VHTbcg36D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+茶频道,rtsp://27.148.236.129:554/live/ch22083017183582533184.sdp?FccMediaIP=239.61.3.59&FccMediaPort=9872&vcdnid=001&mediaid=ch22083017183582533184&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeiW7I8euBz1nBPsZoOHgpbkFdy3mLF2MmX5Bixs9O40x0d8RtgP2DayASZlOpMLMaA%3D%3D
+纪实人文,rtsp://27.148.236.129:554/live/ch17081012003923835755.sdp?FccMediaIP=239.61.2.165&FccMediaPort=8978&vcdnid=001&mediaid=ch17081012003923835755&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeuxbq70Oq5cSlPMLu8PW9I3xvkrZMuoliRX1Ig08ZHej0d8RtgP2DayASZlOpMLMaA%3D%3D
+金鹰纪实,rtsp://27.148.236.129:554/live/ch19040410203183192171.sdp?FccMediaIP=239.61.3.7&FccMediaPort=9560&vcdnid=001&mediaid=ch19040410203183192171&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemKapgqutTdO340bTqhr10EpBGfC5gON%2B3GSuw2ZA2vu0d8RtgP2DayASZlOpMLMaA%3D%3D
+乐游,rtsp://27.148.236.129:554/live/ch16091400304724147209.sdp?FccMediaIP=239.61.2.147&FccMediaPort=8870&vcdnid=001&mediaid=ch16091400304724147209&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPejgUH5AJrrQcAgxMJnjN%2Bwj11UDUBkipr3AHy46P5ZuQ0d8RtgP2DayASZlOpMLMaA%3D%3D
+欢笑剧场,rtsp://27.148.237.40:554/live/ch16091400245502369823.sdp?playtype=1&FccMediaIP=239.61.2.146&FccMediaPort=8864&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16091400245502369823&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldfKhWoYOuWz3zC0OUGBKqyLltThIJTBTQwWwEKLtKdzS6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+都市剧场,rtsp://27.148.237.40:554/live/ch16091400394519752904.sdp?playtype=1&FccMediaIP=239.61.2.149&FccMediaPort=8882&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbnibZj9cAr35AzdHFXBJNEuA60fiDy%2BV3H6Hq84aoXU6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+交通广播,rtsp://27.148.237.40:554/live/ch20081017375652415914.sdp?playtype=1&FccMediaIP=239.61.3.32&FccMediaPort=9710&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch20081017375652415914&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldbJ8xOvbTaSqthDO4j7aCEm2fLnAZcihcgiciq1BIPvW6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+爱上4K,rtsp://27.148.237.40:554/live/ch18122110190633826391.sdp?playtype=1&FccMediaIP=239.61.3.3&FccMediaPort=9536&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18122110190633826391&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAslddbHHsLkaLWhzQszhHKmW7Mf4ONZY2%2BgUP5sL%2FbZsV286D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+股评汇,rtsp://27.148.237.40:554/live/ch15102717162223553708.sdp?playtype=1&FccMediaIP=239.61.2.92&FccMediaPort=8546&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162223553708&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4SjdGzeb8swmepwQUdsqj9a6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+梨园,rtsp://27.148.236.129:554/live/ch22091416101671606843.sdp?FccMediaIP=239.61.3.19&FccMediaPort=9634&vcdnid=001&mediaid=ch22091416101671606843&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeh0015ufnasW9d9g19%2BpTN%2FKvRD5dgDLebgF3MYCL%2Be00d8RtgP2DayASZlOpMLMaA%3D%3D
+文物宝库,rtsp://27.148.236.129:554/live/ch22091416245095951152.sdp?FccMediaIP=239.61.3.21&FccMediaPort=9646&vcdnid=001&mediaid=ch22091416245095951152&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelmZ9UjhfI%2BOZEczIvns9pysv%2FGXa76uRzU1I%2Bo1t1f90d8RtgP2DayASZlOpMLMaA%3D%3D
+武术世界,rtsp://27.148.236.129:554/live/ch22091416293105555892.sdp?FccMediaIP=239.61.3.22&FccMediaPort=9652&vcdnid=001&mediaid=ch22091416293105555892&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelmZ9UjhfI%2BOZEczIvns9pypOapasDlmqWxQ5NqBveoj0d8RtgP2DayASZlOpMLMaA%3D%3D
+中国教育2,rtsp://27.148.236.129:554/live/ch19011415055733660637.sdp?FccMediaIP=239.61.3.6&FccMediaPort=9554&vcdnid=001&mediaid=ch19011415055733660637&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekD0BQDbKNM0%2BvRc5mxBs%2FQGhjoGHJn%2BfFrDT5B0rdXQ0d8RtgP2DayASZlOpMLMaA%3D%3D
+中国教育4,rtsp://27.148.236.129:554/live/ch20021410003517423887.sdp?FccMediaIP=239.61.3.15&FccMediaPort=9608&vcdnid=001&mediaid=ch20021410003517423887&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeqwXFzte3ce6J17njeVTCJMOx8WFHN1crTy2SVKlbHOD0d8RtgP2DayASZlOpMLMaA%3D%3D
+先锋乒羽,rtsp://27.148.236.129:554/live/ch22091415575673264280.sdp?FccMediaIP=239.61.3.17&FccMediaPort=9622&vcdnid=001&mediaid=ch22091415575673264280&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPenck9%2Bewr3%2F3PfuBvb7C8DtRpp3ZZIP95Y2ZE%2BTzzGi80d8RtgP2DayASZlOpMLMaA%3D%3D
+卡酷卡通,rtsp://27.148.236.129:554/live/ch18051116150082634005.sdp?FccMediaIP=239.61.2.222&FccMediaPort=9320&vcdnid=001&mediaid=ch18051116150082634005&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemW0pphNQxYxMGDCDjDDMU9wa%2FVt4Jxcn7WuBqufvoQz0d8RtgP2DayASZlOpMLMaA%3D%3D
+金鹰卡通,rtsp://27.148.236.129:554/live/ch18051116144984651176.sdp?FccMediaIP=239.61.2.221&FccMediaPort=9314&vcdnid=001&mediaid=ch18051116144984651176&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemW0pphNQxYxMGDCDjDDMU%2FXoGOqbQr%2BHXXqH3cQHDut0d8RtgP2DayASZlOpMLMaA%3D%3D
+哈哈炫动,rtsp://27.148.236.129:554/live/ch15102717162121396096.sdp?FccMediaIP=239.61.2.70&FccMediaPort=8414&vcdnid=001&mediaid=ch15102717162121396096&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdn9ZXd5F61ral2F5GqeMpVh0d8RtgP2DayASZlOpMLMaA%3D%3D
+嘉佳卡通,rtsp://27.148.236.129:554/live/ch15102717162106888181.sdp?FccMediaIP=239.61.2.72&FccMediaPort=8426&vcdnid=001&mediaid=ch15102717162106888181&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdnV5xdDt10gFKMQ86dKMPl40d8RtgP2DayASZlOpMLMaA%3D%3D
+高网频道,rtsp://27.148.236.129:554/live/ch21061816175629832803.sdp?FccMediaIP=239.61.3.42&FccMediaPort=9770&vcdnid=001&mediaid=ch21061816175629832803&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelU%2BXFAm6Ig2SH%2F21aB%2FWcShC5PQsoKizPPwJ05VFLKI0d8RtgP2DayASZlOpMLMaA%3D%3D
+新动漫,rtsp://27.148.236.129:554/live/ch22091416033313032060.sdp?FccMediaIP=239.61.3.18&FccMediaPort=9628&vcdnid=001&mediaid=ch22091416033313032060&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPerjwGu%2F4dgG1hgYUIW99ye05uOMmHGqexAv99%2FjmuL0U0d8RtgP2DayASZlOpMLMaA%3D%3D
+海博TV,rtsp://27.148.236.129:554/live/ch22050916410461364600.sdp?FccMediaIP=239.61.3.58&FccMediaPort=9866&vcdnid=001&mediaid=ch22050916410461364600&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehJYb2o%2FoQpTsEnfbK3DxUKAZI7B3W92vYJN9Pf2WqbF0d8RtgP2DayASZlOpMLMaA%3D%3D
+直播室101,rtsp://27.148.237.40:554/live/ch15121814404379688838.sdp?playtype=1&FccMediaIP=239.61.2.122&FccMediaPort=8726&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814404379688838&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaQ%2Bk2KEntevA6KyJOCPJDTISuczLcTClkg1T8ZzT%2FFD6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室102,rtsp://27.148.237.40:554/live/ch15121814432852720699.sdp?playtype=1&FccMediaIP=239.61.2.123&FccMediaPort=8732&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814432852720699&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaQ%2Bk2KEntevA6KyJOCPJDT%2FPx3Nb5fgW9fCanje5vqe6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室103,rtsp://27.148.237.40:554/live/ch15121814460951672583.sdp?playtype=1&FccMediaIP=239.61.2.124&FccMediaPort=8738&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814460951672583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaQ%2Bk2KEntevA6KyJOCPJDQTjEJ0GgyZrtoVxUbbUw0m6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室104,rtsp://27.148.237.40:554/live/ch15121814481699853847.sdp?playtype=1&FccMediaIP=239.61.2.125&FccMediaPort=8744&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814481699853847&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaQ%2Bk2KEntevA6KyJOCPJDTH5R3t%2F7e34QKXC%2BCXB6F16D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室105,rtsp://27.148.237.40:554/live/ch15121814495018462634.sdp?playtype=1&FccMediaIP=239.61.2.126&FccMediaPort=8750&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814495018462634&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldaQ%2Bk2KEntevA6KyJOCPJDQMqaqiE53g2A8ySLyuRkgL6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室106,rtsp://27.148.237.40:554/live/ch15121814525633396993.sdp?playtype=1&FccMediaIP=239.61.2.127&FccMediaPort=8756&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814525633396993&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRld2I%2B%2FuBP8oQC8XTVnIeefWyuHcxvbhhuPB5FaYdhL6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室107,rtsp://27.148.237.40:554/live/ch15121814541963243413.sdp?playtype=1&FccMediaIP=239.61.2.128&FccMediaPort=8762&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15121814541963243413&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRld2I%2B%2FuBP8oQC8XTVnIeduRnO0vMcX5C8ihObf5JIU6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室111,rtsp://27.148.237.40:554/live/ch16072917224372853628.sdp?playtype=1&FccMediaIP=239.61.2.136&FccMediaPort=8804&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16072917224372853628&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldXa7JXDykm%2FekI94ko%2FDuxuZbUYSHe6sQLThUxsYDho16D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室110,rtsp://27.148.237.40:554/live/ch16072917211225923511.sdp?playtype=1&FccMediaIP=239.61.2.135&FccMediaPort=8798&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16072917211225923511&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldXa7JXDykm%2FekI94ko%2FDuxuHnE%2F58t8uh0m7gdNGKYyg6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+直播室109,rtsp://27.148.237.40:554/live/ch16072917174437139363.sdp?playtype=1&FccMediaIP=239.61.2.134&FccMediaPort=8792&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch16072917174437139363&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQGHAgwuAKNPdwzQj2EawEyaDUnafdZeZamGKR88FdH76D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+党建频道,rtsp://27.148.237.40:554/live/ch17071916133822306922.sdp?playtype=1&FccMediaIP=239.61.2.163&FccMediaPort=8966&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17071916133822306922&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAslddqldP13WpM682w5yeYyS5NmY4Zu4wbeMVYXS15RrA8O6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+中国气象,rtsp://27.148.237.40:554/live/ch15102717162146737823.sdp?playtype=1&FccMediaIP=239.61.2.64&FccMediaPort=8378&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162146737823&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4T07PEGDubhvvvulFQn0IT%2F6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+CGTN法语,rtsp://27.148.236.129:554/live/ch21062417080668650696.sdp?FccMediaIP=239.61.3.44&FccMediaPort=9782&vcdnid=001&mediaid=ch21062417080668650696&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekQgpBA3LfqJuv6ZYb2oPk4D%2FPmcWsL%2F5DZw%2FD6jQJeH0d8RtgP2DayASZlOpMLMaA%3D%3D
+CGTN俄语,rtsp://27.148.236.129:554/live/ch21062417084640600620.sdp?FccMediaIP=239.61.3.45&FccMediaPort=9788&vcdnid=001&mediaid=ch21062417084640600620&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekQgpBA3LfqJuv6ZYb2oPk51KGELLoI4zetx70vpKboT0d8RtgP2DayASZlOpMLMaA%3D%3D
+CGTN英文纪录,rtsp://27.148.236.129:554/live/ch21062417072087321230.sdp?FccMediaIP=239.61.3.43&FccMediaPort=9776&vcdnid=001&mediaid=ch21062417072087321230&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekQgpBA3LfqJuv6ZYb2oPk7eSg0t1v866utyuxpQrUJ10d8RtgP2DayASZlOpMLMaA%3D%3D
+CGTN 英语,rtsp://27.148.236.129:554/live/ch15102717162043740968.sdp?FccMediaIP=239.61.2.19&FccMediaPort=8108&vcdnid=001&mediaid=ch15102717162043740968&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdndFjwiW4RGnE%2BPSPTKjzrF0d8RtgP2DayASZlOpMLMaA%3D%3D
 轮播,#genre#
-周润发,http://epg.112114.xyz/huya/11342387
-李连杰,http://epg.112114.xyz/huya/11342390
-甄子丹,http://epg.112114.xyz/huya/11352935
 邱淑贞,http://epg.112114.xyz/huya/11352949
-刘德华,http://epg.112114.xyz/huya/11342424
-林正英,http://epg.112114.xyz/huya/11342421
 成龙,http://epg.112114.xyz/huya/11342386
 徐峥,http://epg.112114.xyz/huya/11602043
-沈腾,http://epg.112114.xyz/huya/11601968
 五福星,http://epg.112114.xyz/huya/11282233
 张学友,http://epg.112114.xyz/huya/11352878
-古天乐,http://epg.112114.xyz/huya/11602041
-周星星,http://epg.112114.xyz/huya/11342412
-吴京,http://epg.112114.xyz/huya/28445419
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 玄幻剧场1,http://epg.112114.xyz/huya/11342414
 盗墓系列,http://epg.112114.xyz/huya/11352913
-金庸经典,http://epg.112114.xyz/huya/11342427
 卧底&警察,http://epg.112114.xyz/huya/11279251
-黑帮斗争,http://epg.112114.xyz/huya/11342419
 玄幻剧场,http://epg.112114.xyz/huya/11352973
-年贺岁档,http://epg.112114.xyz/huya/11601986
 这很不同,http://epg.112114.xyz/huya/11602067
-女神系列,http://epg.112114.xyz/huya/11336571
 邵氏影院,http://epg.112114.xyz/douyu/4246519
 华语经典,http://epg.112114.xyz/douyu/434971
 漫威影片,http://epg.112114.xyz/douyu/6140589
 华语电影,http://epg.112114.xyz/douyu/3928
-华语动作电影,http://epg.112114.xyz/douyu/1504768
-科幻系列,http://epg.112114.xyz/douyu/8107217
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 恐怖电影,http://epg.112114.xyz/douyu/310926
 喜剧电影,http://epg.112114.xyz/douyu/9292492
 欧美大片,http://epg.112114.xyz/douyu/2793084
 译制影片,http://epg.112114.xyz/douyu/2436390
-喜剧经典,http://epg.112114.xyz/douyu/9650887
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
-斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 女神金电影,http://epg.112114.xyz/douyu/747764
 贝爷影厅1,http://epg.112114.xyz/douyu/252802
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
@@ -255,204 +324,185 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 冰冰经典电影,http://epg.112114.xyz/douyu/74374
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 避风港影院,http://epg.112114.xyz/douyu/9826611
-林林影视,http://epg.112114.xyz/douyu/9652323
 变种人电影,http://epg.112114.xyz/douyu/9651304
 小U电影,http://epg.112114.xyz/douyu/96577
 小宇60帧,http://epg.112114.xyz/douyu/323876
-麓山迷踪,http://epg.112114.xyz/douyu/4505431
-高帧影片,http://epg.112114.xyz/douyu/6763930
-米娅电影,http://epg.112114.xyz/douyu/6537888
-
-汪汪队立大功,#genre#
-汪汪队长001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f96cb7c6f8354da1ab9c67a92bd03296/1200.m3u8
-汪汪队长002,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/11a3110e23b546878b9fc34ab087fc99/1200.m3u8
-汪汪队长003,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a076bfa8f5534589a6a32a1211d526f6/1200.m3u8
-汪汪队长004,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e628c3b1c7f41ef9569439bbc20c3b1/1200.m3u8
-汪汪队长005,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a02cb85d5c0a4840ae320f189fef9ad5/1200.m3u8
-汪汪队长006,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b361d95253e04a75b5c262c067e26e7a/1200.m3u8
-汪汪队长007,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1ae53296a16475c8bc2667fccf1718f/1200.m3u8
-汪汪队长008,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb462eedab924864bb52a076eff3f35a/1200.m3u8
-汪汪队长009,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/667dc8e9785047f4a2bf2008759a0d41/1200.m3u8
-汪汪队长010,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7bdfb0bacfc4b76b6492b371645bec9/1200.m3u8
-汪汪队长011,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/104718fde00347c0bdf3892056f6c424/1200.m3u8
-汪汪队长012,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/10bcc3bdf9534b86a3ecc558eb88e8c1/1200.m3u8
-汪汪队长013,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e862c5952b24af6b11e2ff5c82e3ef6/1200.m3u8
-汪汪队长014,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf22bd5354eb4eceb751698f1197a443/1200.m3u8
-汪汪队长015,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e708bd144bc040968a0697d401c55721/1200.m3u8
-汪汪队长016,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e358bc63629a4da0b571f09c1758632f/1200.m3u8
-汪汪队长017,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aab9e8b4cb15456395344f0bf506b7e5/1200.m3u8
-汪汪队长018,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6de71403ea864646b457f6fb55eb7a7d/1200.m3u8
-汪汪队长019,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a6ce466f26941cbb9d49fa58a742395/1200.m3u8
-汪汪队长020,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ff6bb3e89ece439991951d4fb5ba0b69/1200.m3u8
-汪汪队长021,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b731bdafeb81400591a9ed620320d745/1200.m3u8
-汪汪队长022,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c064f62c75954d3583195caa67b68b49/1200.m3u8
-汪汪队长023,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cc40c88c98ec49398f4359dfa371adbf/1200.m3u8
-汪汪队长024,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02f23f6dc67b463a8b0ae74dae52b3f7/1200.m3u8
-汪汪队长025,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bbb24743a4e64b18a2156cccc21987af/1200.m3u8
-汪汪队长026,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c100256a0b3e4193b5f92a43693dbc77/1200.m3u8
-汪汪队长027,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e670a68ddb92483bbef8b1683edee4a3/1200.m3u8
-汪汪队长028,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd67233519ea43da9174ae05ca1ccf57/1200.m3u8
-汪汪队长029,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fdb0c5306cd242ac9b12070e65412e50/1200.m3u8
-汪汪队长030,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ec904e499d8046e0b5d53fa014d72a4c/1200.m3u8
-汪汪队长031,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34145495b3104941805df790e3b40719/1200.m3u8
-汪汪队长032,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44d516bca92e4845aef4a419097e007a/1200.m3u8
-汪汪队长033,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637ac17e2b2f47a5a2333834dafa6e3f/1200.m3u8
-汪汪队长034,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a2d0ebd3ffb419fb02ff0c0e59e0209/1200.m3u8
-汪汪队长035,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa54ffb0b7114bc9a93a22a5796518a9/1200.m3u8
-汪汪队长036,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e9224d87c2e4065837bd18fd4603650/1200.m3u8
-汪汪队长037,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85fedbfc85d848e9ae08ca74697443d7/1200.m3u8
-汪汪队长038,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57069bf2d17e4340b7e865c9c958de6e/1200.m3u8
-汪汪队长039,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa25758ec7d44282be2860fb91f6a443/1200.m3u8
-汪汪队长040,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1e068184532473bb8b3594ab52473f6/1200.m3u8
-汪汪队长041,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b49f6e0cbce64287bc0822855dd5e427/1200.m3u8
-汪汪队长042,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/735a493eb20b480cb244f8d1e76a7aee/1200.m3u8
-汪汪队长043,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f55300db9b24cf4b217665674eb91db/1200.m3u8
-汪汪队长044,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb132688ccb4498b8bd757dc2becd7c1/1200.m3u8
-汪汪队长045,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/708e12616f6e48a3adf59ca2a2fee0f6/1200.m3u8
-汪汪队长046,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0d68f04232644c84b93996de169a71cf/1200.m3u8
-汪汪队长047,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c8b90d10b6345cda0be4eff0e0bf93b/1200.m3u8
-汪汪队长048,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01a6644dd1594449b17433c282698e3c/1200.m3u8
-汪汪队长049,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9a25d444289482d91b91bf18c403b7e/1200.m3u8
-汪汪队长050,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34011c8212d2486789428ecd59fbfa8b/1200.m3u8
-汪汪队长051,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0826fc10e6ac46d49924d543d458b8cc/1200.m3u8
-汪汪队长052,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ea7f5101a00485d9f23ddaf46ac8947/1200.m3u8
-汪汪队长053,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8871a98bee374512a100e54754e5f399/1200.m3u8
-汪汪队长054,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f2e9c3a65fb5402180d926773837f872/1200.m3u8
-汪汪队长055,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4588ae5cbe6f4f6e8c19c99a35b7d452/1200.m3u8
-汪汪队长056,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df2e5d595f9f4b359c523e1d4281a09e/1200.m3u8
-汪汪队长057,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ede03064fc404259af277bc23f132b2a/1200.m3u8
-汪汪队长058,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e3fef33e46ed4ca5b89d4cfe00dc6df4/1200.m3u8
-汪汪队长059,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/76e23ba93e054dac87bd10f0e40d6cec/1200.m3u8
-汪汪队长060,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85ce09072ff145edada93afb64fa387f/1200.m3u8
-汪汪队长061,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3beadd023ab84420b006d46b6185b27d/1200.m3u8
-汪汪队长062,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/92b01218824e42b29b1b68e2a5def767/1200.m3u8
-汪汪队长063,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/503fffe097444ddf9c5f1371a97c664e/1200.m3u8
-汪汪队长064,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d1e0ae397cc44b5ad798c5d75191f90/1200.m3u8
-汪汪队长065,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ebfbf6facb9d4f02ad787fcd67ad4bb7/1200.m3u8
-汪汪队长066,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6307519ee3aa4fe2857358e46defdfe3/1200.m3u8
-汪汪队长067,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32334a133c1b4bfb97e6111ce76a3478/1200.m3u8
-汪汪队长068,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c98fa9bd9bb48989651f86061d81a2e/1200.m3u8
-汪汪队长069,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/748934c34a784ab48c3bf444ab81317d/1200.m3u8
-汪汪队长070,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a9ef05da096c4fdbb1e2554d9796c778/1200.m3u8
-汪汪队长071,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f49c4c190496429ea84dccc8198e5b14/1200.m3u8
-汪汪队长072,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b0c7ea4cecc94deb9d2ca354be0eefb6/1200.m3u8
-汪汪队长073,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9133de5a83c4451785d038ea1a2299fc/1200.m3u8
-汪汪队长074,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d0231ddf43e8478eb5100daa51dc9e4c/1200.m3u8
-汪汪队长075,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2b0668368958433da128ebd3ac2078a9/1200.m3u8
-汪汪队长076,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44608193b55b4af6a0f33101615cca99/1200.m3u8
-汪汪队长077,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1934704afe9b40ea91ab404690454a4c/1200.m3u8
-汪汪队长078,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df69d5886444407191e7e711d3e6187d/1200.m3u8
-汪汪队长079,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08d7b6c522624269843ad614c2a2525c/1200.m3u8
-汪汪队长080,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f063f2b839d248d19e45c2fe5c42ae2b/1200.m3u8
-汪汪队长081,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6948d4eb317c4b2caf41139d8ce43fa3/1200.m3u8
-汪汪队长082,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ee0a23f908f5428dbe3bc86310e99522/1200.m3u8
-汪汪队长083,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ad76ffe7f7a44f6fbeea3ddc3ed7918e/1200.m3u8
-汪汪队长084,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e9fe924139d044d39313c5e0bc98e57e/1200.m3u8
-汪汪队长085,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3936b3902d0a4005a36a53cf69308f8b/1200.m3u8
-汪汪队长086,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/53b32d9b7697455c9183590257069418/1200.m3u8
-汪汪队长087,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/90843453fd6e49498abc8e86bb282e05/1200.m3u8
-汪汪队长088,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3b4a9c7d2681432fac5c8284f99d3215/1200.m3u8
-汪汪队长089,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb05c611282c4878a6becc42177830e4/1200.m3u8
-汪汪队长090,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1be2af150915484ab8074088bed531fe/1200.m3u8
-汪汪队长091,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f3aba478fad40f480595392139cf0c2/1200.m3u8
-汪汪队长092,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/da01c5616bf543848d1a0515205a5186/1200.m3u8
-汪汪队长093,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/24079359a62640af9a9066323a606d8d/1200.m3u8
-汪汪队长094,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/306a276e33f24aa999082842a8298278/1200.m3u8
-汪汪队长095,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e63b38e57d64c62a317d5e4bcadcedc/1200.m3u8
-汪汪队长096,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/56e2077c51294c97bceaf985483d446f/1200.m3u8
-汪汪队长097,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1630c51673764987aa22610dafd27611/1200.m3u8
-汪汪队长111,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b1565ee90f7041f68f7b0b8e7ea20b5c/1200.m3u8
-汪汪队长112,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b45db88225664f4caa3cfbb78e59f518/1200.m3u8
-汪汪队长113,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/99721ccfa68a4a86af68785667b73448/1200.m3u8
-汪汪队长114,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6baf2da9c3f64ee3b61876984fb3a17b/1200.m3u8
-汪汪队长115,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f949da0589e42fdb548a8b25f731271/1200.m3u8
-汪汪队长116,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2695a8c996b44da78f2e798087867e0b/1200.m3u8
-汪汪队长117,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd42703cc55545be999b776afc0dad2a/1200.m3u8
-汪汪队长118,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/826bb2829f5b4006905090789000dcbd/1200.m3u8
-汪汪队长119,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0130d3876634e44bcc1ff137b96afb5/1200.m3u8
-汪汪队长120,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a4310f33881422583f905bc3e8f7792/1200.m3u8
-汪汪队长121,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8b8e54cb3c56410c81b13780612aa97d/1200.m3u8
-汪汪队长122,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8bab90a799724e28a2737f022afac229/1200.m3u8
-汪汪队长123,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7aef8afa43d4fdd980e3a22218a624c/1200.m3u8
-汪汪队长124,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/198c0b9732a24411876512297e52fd17/1200.m3u8
-汪汪队长125,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8cd089e93b8420b9eb09c20638010f3/1200.m3u8
-汪汪队长126,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1c4f3c1fa4040aaa231de944652669b/1200.m3u8
-汪汪队长127,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/703c8fa3b2584becbb626380a5f7868e/1200.m3u8
-汪汪队长128,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a01e900a410342b696d268c5b53df252/1200.m3u8
-汪汪队长129,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e2a4f715ace4daa8e8639f564f7b0bb/1200.m3u8
-汪汪队长130,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ed8f6ae82db4fb3b928ec3947a39d93/1200.m3u8
-汪汪队长131,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd09d63781a743dd8023e34d6975c7ef/1200.m3u8
-汪汪队长132,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1ac7e133bba454c8d9c1ebd64686a6f/1200.m3u8
-汪汪队长133,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/95e9640f88254fceaeb152838f1bc98d/1200.m3u8
-汪汪队长134,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50b62eff67984708a82cd5d2d8647dbb/1200.m3u8
-汪汪队长135,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c2d21262d0314c7aa56b437971bd47c4/1200.m3u8
-汪汪队长136,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bebe3e1a4f2d46c2b925a53c8c42c517/1200.m3u8
-汪汪队长137,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a0e38715b1be470a8600d8ffc18e748c/1200.m3u8
-汪汪队长138,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c02368a7bbff4f98ad965c19ac3623d1/1200.m3u8
-汪汪队长139,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1c181289aa7415d8a2a6bcb8ae26c08/1200.m3u8
-汪汪队长140,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1dafa7d67aef4050ab794b493fa6401d/1200.m3u8
-汪汪队长141,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/af37184bf0364abba0ec422d20062d1c/1200.m3u8
-汪汪队长142,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6100554bac41b8981912cb75acb3e2/1200.m3u8
-汪汪队长143,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01384039706a4293b893737c50db9b6a/1200.m3u8
-汪汪队长145,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/becfaf4e646741ceba2ab5222a43aaa0/1200.m3u8
-汪汪队长146,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4363040f37734671a6ffbca562acdb94/1200.m3u8
-汪汪队长147,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2594d4c89b924d63a16b1a7cebe9a818/1200.m3u8
-汪汪队长148,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/008bfa240bef41b1bc5142a15e2addae/1200.m3u8
-汪汪队长149,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/558f46f87d8944bbbb2a39f109258f3e/1200.m3u8
-汪汪队长150,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/83b739a1fda6486bb94c6c715e8ac432/1200.m3u8
-汪汪队长151,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1da6b13f1ab488aa1b9b1289342fd11/1200.m3u8
-汪汪队长152,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb63c15fcafd46aaaefd113c1972444b/1200.m3u8
-汪汪队长153,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dbe4359df0e746eb9100ed53d0457726/1200.m3u8
-汪汪队长154,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2217d3f78e274d1a9d27a15a3eba46c8/1200.m3u8
-汪汪队长155,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cfa0410519a475f8fb156b6c5ea8b66/1200.m3u8
-汪汪队长156,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4e4e2d0eed0c44dfbac96be4592cde1a/1200.m3u8
-汪汪队长157,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0739508836274a82acab1629038ca833/1200.m3u8
-汪汪队长158,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/94141755bcdc466ea7573ccf8d9cfac7/1200.m3u8
-汪汪队长159,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d259eaaf6bec4f6b959b7a9934cf5d09/1200.m3u8
-汪汪队长160,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/238e547277a4437c806bbf7e3fa0fd4b/1200.m3u8
-汪汪队长161,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/feab755faa9344eb9e58f0b8e8602621/1200.m3u8
-汪汪队长162,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d208a1294c534ecda8cf705164ad72f7/1200.m3u8
-汪汪队长163,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8fe481ea2155419abc47a18b46fa96f5/1200.m3u8
-汪汪队长164,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8e699928bcdf42af858be041cdc2cd29/1200.m3u8
-汪汪队长165,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c8b6626e31e84facad547c07b4bfbcbb/1200.m3u8
-汪汪队长166,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/efe1fb2a97b04ed7aa4729fd53f528a8/1200.m3u8
-汪汪队长167,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/042e3752c9f0471f9ad9d5ed0a27979e/1200.m3u8
-汪汪队长168,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/507762f2a33a46c8b5b7750825faecb4/1200.m3u8
-汪汪队长169,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f8330d2716947228efcb63242a4fa6a/1200.m3u8
-汪汪队长170,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f19f82dd5a5f4361b0d461f16a402701/1200.m3u8
-汪汪队长171,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e2cc371ffbee44f4b1950492f8e99bda/1200.m3u8
-汪汪队长172,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84d874c15f9b4cdcb68b8fabda9f5d82/1200.m3u8
-汪汪队长173,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe25e9b6543547b59e7551258db48eb0/1200.m3u8
-汪汪队长174,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b3d687043c1c41de87b33af620235202/1200.m3u8
-汪汪队长175,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4fa57b923f2d4a64912558b7b697d4d6/1200.m3u8
-汪汪队长176,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d93b6abb8e1742f3bcafab3a6144bf21/1200.m3u8
-汪汪队长177,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/60a9d036de8a47dbaf508f9374037a68/1200.m3u8
-汪汪队长178,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d07a1fed16e4d3fb74e097adf0def42/1200.m3u8
-汪汪队长179,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a5a836bf31747f5bb1592d18de17e21/1200.m3u8
-汪汪队长180,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/243d474025db4156bdd0837bd886872d/1200.m3u8
-汪汪队长181,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/89a30ed616ba409b8077f19a110f5d62/1200.m3u8
-汪汪队长182,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/41c98cb9de454fe1bde5cb39dc9a6fe6/1200.m3u8
-汪汪队长183,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b0f3706c64349ad87125afca1f2aaad/1200.m3u8
-汪汪队长184,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c302ed372c24020b89bc49615f8553a/1200.m3u8
-汪汪队长185,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/581e0bbcbd844e78bd907fa416aca7f4/1200.m3u8
-汪汪队长186,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/868cf1282401478da172530aea5b11a6/1200.m3u8
-汪汪队长187,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b8c4987305042e5aa10044f31952aae/1200.m3u8
-汪汪队长188,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2293e8dc252c4523a0c7ec0e2a1e0df8/1200.m3u8
-汪汪队长189,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9390e44c0fa74772b78d30029510873e/1200.m3u8
-汪汪队长190,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/414e977cad634e6a93133410c4f9441e/1200.m3u8
-汪汪队长191,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f5050ab4a1ce45049ceb35c7890eae92/1200.m3u8
-汪汪队长192,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/359f7327663549448d12ef03124f00da/1200.m3u8
-汪汪队长193,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9dc0878224449608145884243c95f89/1200.m3u8
-汪汪队长194,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/56662fd507ce4808a6c260cd97fc76ce/1200.m3u8
-汪汪队长195,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3053f538efda44ee80c2f3c70a75547d/1200.m3u8
-汪汪队长196,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/362499b6b5a2473a9aa41605d57c2ef5/1200.m3u8
-汪汪队长197,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a7c2beec0c564c718f0992e3083dcdb3/1200.m3u8
-汪汪队长198,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aefb4ea477ec4e5798b3bcdde21cb572/1200.m3u8
-汪汪队长199,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1eabd94abd34450ab45468e0f1b8b62/1200.m3u8
-汪汪队长200,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/12931e843f3e4032a8557ea0437a4c7e/1200.m3u8
-汪汪队长201,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f439f27e151e450fb8a23c17df04a2e4/1200.m3u8
-汪汪队长202,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa268326cfce4703b77bd899b5314301/1200.m3u8
-汪汪队长203,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/99eb9baa803e4aad98804d4a82a04e86/1200.m3u8
-汪汪队长204,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ab3ada6f1f5b498099fcb2a51be260df/1200.m3u8
-汪汪队长205,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4fbe78e68fd4479faab69a1e4ef8bbda/1200.m3u8
-汪汪队长206,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71d880f884d142aab61115952f761a75/1200.m3u8
+抖音一起看,#genre#
+ Lisite清酒,https://www.goodiptv.club/douyu/3688591
+ 安慕兮超好喝,https://www.goodiptv.club/douyu/5062195
+ 进击の神乐,https://www.goodiptv.club/douyu/122402
+ 进击的神乐,https://www.goodiptv.club/douyu/85894
+ 橙記Orange丶,https://www.goodiptv.club/douyu/4549169
+ baby丶贝贝,https://www.goodiptv.club/douyu/431460
+ 蓝翔新三国,https://www.goodiptv.club/douyu/276200
+ 狂拽酷炫,https://www.goodiptv.club/douyu/4332
+ 小雪宝的爱情公寓,https://www.goodiptv.club/douyu/9586235
+ PDD影院阿,https://www.goodiptv.club/douyu/1274132
+ Poison丶冰冰,https://www.goodiptv.club/douyu/74374
+ 小雪宝cr,https://www.goodiptv.club/douyu/920389
+ 活捉一只小怡寶,https://www.goodiptv.club/douyu/434971
+ bbox达人,https://www.goodiptv.club/douyu/428402
+ 伊太刀刀,https://www.goodiptv.club/douyu/747764
+ 爱情公寓vip,https://www.goodiptv.club/douyu/6863367
+ UU娇哒哒呀,https://www.goodiptv.club/douyu/96577
+ 周杰伦颜老师,https://www.goodiptv.club/douyu/7537296
+ 傲娇的虾虾,https://www.goodiptv.club/douyu/338759
+ UnaDirezione,https://www.goodiptv.club/douyu/218859
+ 竹叶的熊猫,https://www.goodiptv.club/douyu/3870925
+ 爱画画的奶糖,https://www.goodiptv.club/douyu/4346416
+ 蓝翔老三国,https://www.goodiptv.club/douyu/7459925
+ 吃奶滴虫,https://www.goodiptv.club/douyu/263824
+ 懵小七家的姬崽子,https://www.goodiptv.club/douyu/5908256
+ gtfobae666,https://www.goodiptv.club/douyu/3337730
+ 萌小鬼,https://www.goodiptv.club/douyu/3928
+ 灬魔丶力灬,https://www.goodiptv.club/douyu/11578014
+ 小黛兮丶,https://www.goodiptv.club/douyu/11553944
+ 绛橘色的落丶,https://www.goodiptv.club/douyu/11578904
+ 容容想跑,https://www.goodiptv.club/douyu/11578540
+ 酷炫小剧场,https://www.goodiptv.club/douyu/36337
+ Rainsunn,https://www.goodiptv.club/douyu/323876
+ 微醺的月色鹿,https://www.goodiptv.club/douyu/11606410
+ 丨灬释怀灬丨,https://www.goodiptv.club/douyu/11391949
+ 丨灬发财叔灬丨,https://www.goodiptv.club/douyu/9470198
+ 嫒沵芯卟浍变,https://www.goodiptv.club/douyu/11544610
+ 自在仙丶望月者,https://www.goodiptv.club/douyu/11543347
+ TT丶奋斗,https://www.goodiptv.club/douyu/10120371
+ 是云宝呢,https://www.goodiptv.club/douyu/7305938
+ 回忆总是陌路丶,https://www.goodiptv.club/douyu/11618658
+ 超甜小野喵,https://www.goodiptv.club/douyu/6566671
+ 我们可爱的程程,https://www.goodiptv.club/douyu/329667
+ 刘少丶7012,https://www.goodiptv.club/douyu/131977
+ 懒猫是只喵,https://www.goodiptv.club/douyu/260322
+ 十七岁的道姑,https://www.goodiptv.club/douyu/3186217
+ 徐大sao,https://www.goodiptv.club/douyu/7107176
+ 春卷大师,https://www.goodiptv.club/douyu/52787
+ 吃米滴虫,https://www.goodiptv.club/douyu/315457
+ 丢了魂的凌儿,https://www.goodiptv.club/douyu/1377142
+ 当幽兰剑遇上链子刀,https://www.goodiptv.club/douyu/6027991
+ 東南西北方不敗,https://www.goodiptv.club/douyu/6778282
+ 搞笑一家人丶刺儿头,https://www.goodiptv.club/douyu/10084875
+ 粤语电影丶,https://www.goodiptv.club/douyu/1226741
+ 贾贵队长真男神,https://www.goodiptv.club/douyu/299854
+ 苹果Zei甜,https://www.goodiptv.club/douyu/1174353
+ 当铁手团遇到光复社,https://www.goodiptv.club/douyu/5875025
+ 丶小跟班丿瑶瑶,https://www.goodiptv.club/douyu/2935323
+ 白了个痴,https://www.goodiptv.club/douyu/319576
+ 小粤兒,https://www.goodiptv.club/douyu/5033502
+ 疯狂尛瀦瀦,https://www.goodiptv.club/douyu/4290711
+ 大麦青汁Fl,https://www.goodiptv.club/douyu/9071554
+ 龍組队长天昊,https://www.goodiptv.club/douyu/1487654
+ Only丶邵氏,https://www.goodiptv.club/douyu/4246519
+ 甜漫妮666,https://www.goodiptv.club/douyu/1569773
+ 疯狂小潴潴,https://www.goodiptv.club/douyu/5522351
+ 7师傅,https://www.goodiptv.club/douyu/17732
+ 小雨有点甜丶,https://www.goodiptv.club/douyu/9965018
+ 老王陪你看电视,https://www.goodiptv.club/douyu/7476264
+ 叶wl子,https://www.goodiptv.club/douyu/3395113
+ 很优美,https://www.goodiptv.club/douyu/7528160
+ 苹果Zei妖,https://www.goodiptv.club/douyu/2793084
+ 大片片说小片,https://www.goodiptv.club/douyu/7489563
+ 牛奶味的梦猪猪,https://www.goodiptv.club/douyu/5261342
+ 喷子OAO,https://www.goodiptv.club/douyu/7253343
+ 么奶瓶,https://www.goodiptv.club/douyu/7644931
+ 永远快乐的小美女,https://www.goodiptv.club/douyu/6091425
+ 亲奶瓶,https://www.goodiptv.club/douyu/6546908
+ 丶丶丶九月丶丶丶,https://www.goodiptv.club/douyu/10338873
+ 鱼小丸梓,https://www.goodiptv.club/douyu/6140589
+ 龙飞凤舞宝藏号,https://www.goodiptv.club/douyu/9650860
+ 702放映厅,https://www.goodiptv.club/douyu/10348728
+ 米尼影院,https://www.goodiptv.club/douyu/7642724
+ 傲娇的超级赛亚人,https://www.goodiptv.club/douyu/4373285
+ 小毅主播q,https://www.goodiptv.club/douyu/6906628
+ 安全套不套,https://www.goodiptv.club/douyu/5423
+ 聚聚聚一个月,https://www.goodiptv.club/douyu/4105989
+ 甘凌宝宝,https://www.goodiptv.club/douyu/8157860
+ 我砸晕了牛顿奥,https://www.goodiptv.club/douyu/1218414
+ 小栗子呀Liz,https://www.goodiptv.club/douyu/7254536
+ 酒酒酒酒酒染,https://www.goodiptv.club/douyu/7550220
+ 微醺小白,https://www.goodiptv.club/douyu/308752
+ 夏夏夏夏夜丶,https://www.goodiptv.club/douyu/6706214
+ 芊珏ovo,https://www.goodiptv.club/douyu/8814650
+ 一只究极蓝霸虎,https://www.goodiptv.club/douyu/8770422
+ 小姐姐不记得,https://www.goodiptv.club/douyu/3700024
+ 彼岸KARA,https://www.goodiptv.club/douyu/40471
+ 网神影厅,https://www.goodiptv.club/douyu/508118
+ 天明夜明,https://www.goodiptv.club/douyu/11624323
+ 安韵家丶萝卜君,https://www.goodiptv.club/douyu/7495810
+ 用户0036218064,https://www.goodiptv.club/douyu/8600645
+ 多发几个思雨,https://www.goodiptv.club/douyu/7256376
+ 魚的左手,https://www.goodiptv.club/douyu/8107217
+ 飘洋过海来,https://www.goodiptv.club/douyu/9548850
+ 胡椒粉的胡歌,https://www.goodiptv.club/douyu/5448413
+ 可达鸭联络员学某,https://www.goodiptv.club/douyu/9650836
+ 脑袋大1937,https://www.goodiptv.club/douyu/7655471
+ 梅西大圣,https://www.goodiptv.club/douyu/1360303
+ 鯋鱼辰辰,https://www.goodiptv.club/douyu/7623292
+ 张二千11,https://www.goodiptv.club/douyu/8945323
+ 一把钢刀镇斗虞,https://www.goodiptv.club/douyu/7356023
+ 成龙历险纪,https://www.goodiptv.club/douyu/2287949
+ 宇哥Rebirth,https://www.goodiptv.club/douyu/413573
+ 圣斗士星矢纱织,https://www.goodiptv.club/douyu/8458270
+ 波奶瓶,https://www.goodiptv.club/douyu/6241733
+ v刺猬猪v,https://www.goodiptv.club/douyu/2436390
+ 往事vs随风1,https://www.goodiptv.club/douyu/3113309
+ 一起看港剧,https://www.goodiptv.club/douyu/5061550
+ ryandradian,https://www.goodiptv.club/douyu/3756989
+ 橙沫小幺妹,https://www.goodiptv.club/douyu/1584198
+ 老王陪你看大片,https://www.goodiptv.club/douyu/9826611
+ 不愿透露姓氏的林百万,https://www.goodiptv.club/douyu/2726977
+ koanluowei,https://www.goodiptv.club/douyu/10906963
+ 都是奔奔的错丶,https://www.goodiptv.club/douyu/8953746
+ 佳佳的全世界,https://www.goodiptv.club/douyu/7575350
+ 超喜欢你的小宇,https://www.goodiptv.club/douyu/54945
+ 用户745991828,https://www.goodiptv.club/douyu/11235028
+ 百晓生说剧,https://www.goodiptv.club/douyu/9649681
+ 智仗心,https://www.goodiptv.club/douyu/5635000
+ 老王陪你看动漫,https://www.goodiptv.club/douyu/6332732
+ 用户9825736704,https://www.goodiptv.club/douyu/9795096
+ 网友小青,https://www.goodiptv.club/douyu/2516864
+ 鱼宝好困,https://www.goodiptv.club/douyu/1165374
+ 小小甜的骑士,https://www.goodiptv.club/douyu/9236042
+ 北京影帝的分身,https://www.goodiptv.club/douyu/9805480
+ 菠萝屋的海绵宝宝,https://www.goodiptv.club/douyu/3949681
+ 肖胜350,https://www.goodiptv.club/douyu/7338853
+ 和平方法,https://www.goodiptv.club/douyu/9650792
+ 南波儿的柠檬,https://www.goodiptv.club/douyu/3379942
+ pipi丫,https://www.goodiptv.club/douyu/9651304
+ 冯人苑,https://www.goodiptv.club/douyu/9292499
+ 恨鐵,https://www.goodiptv.club/douyu/6369954
+ 美娘家的猪猪,https://www.goodiptv.club/douyu/9019945
+ 我也想要一个千反田,https://www.goodiptv.club/douyu/9290734
+ 这夜空中最亮的星,https://www.goodiptv.club/douyu/9290755
+ 用户44986101,https://www.goodiptv.club/douyu/10989842
+ 孤独的牧羊仁,https://www.goodiptv.club/douyu/6861249
+ 黄粱一梦l蓦然回首,https://www.goodiptv.club/douyu/9650849
+ 胸弟团丶嫣嫣,https://www.goodiptv.club/douyu/7810803
+ lele1894,https://www.goodiptv.club/douyu/292098
+ a萌小翘臀,https://www.goodiptv.club/douyu/7552568
+ Miss北月,https://www.goodiptv.club/douyu/8366759
+ UHD杜比视界,https://www.goodiptv.club/douyu/9249162
+ ELF专属直播间,https://www.goodiptv.club/douyu/113158
+ 老孙聊游戏,https://www.goodiptv.club/douyu/2987298
+ 爱喝养乐多的派大星,https://www.goodiptv.club/douyu/9176009
+ 我不懂dota2,https://www.goodiptv.club/douyu/7620081
+ 残存0,https://www.goodiptv.club/douyu/7050342
+ 非一般的视觉体验,https://www.goodiptv.club/douyu/9292492
+ 是晓葑呀,https://www.goodiptv.club/douyu/9650783
+ 祁乐丶,https://www.goodiptv.club/douyu/8066352
+ 南南AKRAPOVIC,https://www.goodiptv.club/douyu/3627728
+ DY丶vision,https://www.goodiptv.club/douyu/9257160
+ 梦媛家的小杰哥,https://www.goodiptv.club/douyu/8507023
+ 是个小可爱iiii,https://www.goodiptv.club/douyu/9650782
+ 洋先生FT,https://www.goodiptv.club/douyu/8595134
+ 小derder哟,https://www.goodiptv.club/douyu/9974197
+ 说好的我们一起白嫖呢,https://www.goodiptv.club/douyu/7421687
+ 微梦屋,https://www.goodiptv.club/douyu/7027040
+ 上海晓龙摄影摄像,https://www.goodiptv.club/douyu/2813016
+ 傲娇一喵喵,https://www.goodiptv.club/douyu/9392610
+ 施小賀211,https://www.goodiptv.club/douyu/10266445
+ 拉二胡的逍遥哥,https://www.goodiptv.club/douyu/581076
+ 叶尘说电影,https://www.goodiptv.club/douyu/9252442
+ 残疾人一玩游戏,https://www.goodiptv.club/douyu/10783449
+ Sy一渣男李元芳,https://www.goodiptv.club/douyu/7812810
+ 剑刃沾满鲜血,https://www.goodiptv.club/douyu/1849320
+ 掌上Club,https://www.goodiptv.club/douyu/1770806
